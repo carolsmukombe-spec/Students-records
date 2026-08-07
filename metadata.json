@@ -1,0 +1,6 @@
+{
+  "name": "Student Record Book",
+  "description": "Customizable offline-first record book application for teachers to track assessments, reading, remedial work, tests, social records, and student progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
